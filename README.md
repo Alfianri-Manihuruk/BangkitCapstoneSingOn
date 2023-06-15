@@ -3,8 +3,6 @@
 
  - [General Info](#General-Info)
  - [Technologies](#Technologies)
- - [Install](#Install)
- - [Run](#Run)
  - [Author](#Author)
  - [Reference](#Reference)
 
