@@ -25,4 +25,4 @@ SignOn is an android application that educates knowledge of sign language to com
 
 ## Reference
 - [Dataset of American Sign Language RGB from Victor Geislinger | Kaggle](https://www.kaggle.com/datasets/mrgeislinger/asl-rgb-depth-fingerspelling-spelling-it-out)
-- [Dataset of American Sign Language Alphabet from Akash | Kaggle](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
+- [Dataset of American Sign Language Alphabet from Akash | Kaggle](https://www.kaggle.com/datasets/grassknoted/asl-alphabet?resource=download-directory)
