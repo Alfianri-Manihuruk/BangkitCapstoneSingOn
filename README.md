@@ -13,6 +13,10 @@ SignOn is an android application that educates knowledge of sign language to com
 - Google Colab
 - Python 
 - Tensorflow
+- NodeJs Servis
+- Google Cloud Services
+- Figma
+- Android Studio
 
 ## Author
 - [Alfianri Manihuruk (M040DSX2314) - Machine Learning](https://github.com/Alfianri-Manihuruk)
