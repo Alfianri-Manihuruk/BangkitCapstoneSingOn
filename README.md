@@ -17,10 +17,10 @@ SignOn is an android application that educates knowledge of sign language to com
 ## Author
 - [Alfianri Manihuruk (M040DSX2314) - Machine Learning](https://github.com/Alfianri-Manihuruk)
 - [Mohammad R Chairul Azizi (M181DSX0199) - Machine Learning](https://github.com/mrizkyca)
-- [Fajar Kurnia (C305DSX2368) - Cloud Computing](https://github.com/)
-- [Faruq Izah Al Afghani (C198DKX4771) - Cloud Computing](https://github.com/)
+- [Fajar Kurnia (C305DSX2368) - Cloud Computing](https://github.com/FJR139)
+- [Faruq Izah Al Afghani (C198DKX4771) - Cloud Computing](https://github.com/frqwuzhere)
 - [Nicho Abdania Saputra (C271DSX2866) - Cloud Computing](https://github.com/)
-- [Baginda Alfito (A169DKX4174) - Mobile Developer](https://github.com/)
+- [Baginda Alfito (A169DKX4174) - Mobile Developer](https://github.com/bagindaalfito)
 
 
 ## Reference
